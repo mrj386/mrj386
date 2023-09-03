@@ -1,7 +1,6 @@
 # Updating...
 
 
-
 ``` Python
 class AIEngineer:
 
@@ -9,6 +8,11 @@ class AIEngineer:
         self.name = name
         self.role = role
         self.skills = skills
+
+        self.social = {
+            "Email" : "merajbokharaei.0@gmail.com"
+            "Telegram" : "@mrj386_b"
+        }
         
     def introduce(self):
         print(f"Hello, I am {self.name}, a {self.role}.")
