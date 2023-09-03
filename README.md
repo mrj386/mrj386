@@ -3,10 +3,10 @@
 ``` Python
 class AIEngineer:
 
-    def __init__(self, name, role, skills):
-        self.name = name
-        self.role = role
-        self.skills = skills
+    def __init__(self):
+        self.name = "Meraj Bokaraei"
+        self.role = "AI Engineer"
+        self.skills = ["Machine Learning", "Deep Learning", "Python", "Object-Oriented Programming"]
 
         self.social = {
             "Email" : "merajbokharaei.0@gmail.com"
@@ -19,13 +19,7 @@ class AIEngineer:
         for skill in self.skills:
             print(f"- {skill}")
 
-
-my_name = "Meraj Bokaraei"
-my_role = "AI Engineer"
-my_skills = ["Machine Learning", "Deep Learning", "Python", "Object-Oriented Programming"]
-
-
-me = AIEngineer(my_name, my_role, my_skills)
+me = AIEngineer()
 me.introduce()
 ```
 
