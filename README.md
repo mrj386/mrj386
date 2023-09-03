@@ -1,5 +1,7 @@
 # Updating...
 
+![animation](About-gif.gif)
+
 ``` Python
 class AIEngineer:
 
