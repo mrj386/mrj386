@@ -1,7 +1,5 @@
 # Updating...
 
-[anmation](https://gist.github.com/mrj386/b1968364db5067b3974757d479aa5d59)
-
 ``` Python
 class AIEngineer:
 
