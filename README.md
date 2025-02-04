@@ -7,11 +7,11 @@ class AIEngineer:
     def __init__(self):
         self.name = "Meraj Bokaraei"
         self.role = "AI Engineer"
-        self.skills = ["Machine Learning", "Deep Learning", "Python", "Object-Oriented Programming"]
+        self.skills = ["Machine Learning", "Deep Learning", "Object-Oriented Programming", "C++", "Python"]
 
         self.social = {
             "Email" : "merajbokharaei.0@gmail.com"
-            "Telegram" : "@mrj386_b"
+            "Telegram" : "@Meraj_Bokharaei"
         }
         
     def introduce(self):
