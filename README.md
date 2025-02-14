@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=36&pause=800&color=48BCF6&width=500&height=60&lines=Hi!+I'm+Meraj+Bokharaei+%3A%5D;I'm+a+Novice+AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=36&pause=800&color=48BCF6&width=500&height=60&lines=Hi!+I'm+Meraj+Bokharaei+%3A%5D;A+Novice+AI+Engineer)](https://git.io/typing-svg)
 
 ``` Python
 class AIEngineer:
